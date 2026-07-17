@@ -6,6 +6,12 @@ An open Qentrah agent skill for scalable, organization-rooted product architectu
 
 Protect database shape, domain interfaces, index design, and backend ownership before implementation broadens system complexity.
 
+## Install
+
+```bash
+npx @qentrah/skills add architecture-guardian
+```
+
 ## Structure
 
 - `SKILL.md` — architecture-review and implementation workflow.
