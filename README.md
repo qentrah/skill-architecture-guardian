@@ -24,3 +24,7 @@ Created and maintained by [Ahmed Mansour](https://github.com/Up-to-code) for [Qe
 ## License
 
 MIT.
+
+## Project links
+
+[Source](https://github.com/qentrah/skill-architecture-guardian) · [Issues](https://github.com/qentrah/skill-architecture-guardian/issues) · [Public project directory](https://github.com/qentrah/.github/blob/main/profile/PROJECTS.md)
